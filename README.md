@@ -75,8 +75,7 @@ ProjetCPP/
 
 ```bash
 # Cloner le repo
-git clone https://github.com/ton-user/reservation-tgv-cpp.git
-cd reservation-tgv-cpp
+git clone git clone https://github.com/ljnoam/projet_tgv.git
 
 # Créer un dossier de build
 mkdir build && cd build
@@ -95,7 +94,7 @@ cmake --build .
 
 ## 📄 Rapport de projet
 
-👉 [Lire le rapport PDF ici](https://github.com/ton-user/reservation-tgv-cpp/raw/main/docs/rapport-projet-tgv.pdf)
+👉 [Lire le rapport PDF ici](https://github.com/ljnoam/projet_tgv/raw/main/docs/rapport_projet_tgv.pdf)
 
 ---
 
